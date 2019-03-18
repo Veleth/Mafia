@@ -1,5 +1,6 @@
-# Mafia
-https://gitlab.com/Matisso77/mafia
+# Mafia game
+A project for Team Programming course in academic year 2018/2019. 
+It is hosted on GitLab, as it was deemed more appropriate by our SCRUM master.
 
-We were using gitlab, couse it was compatible with our SCRUM requirements.
-See at Wiki pages for more project datails.
+[Check it out](https://gitlab.com/Matisso77/mafia)
+
